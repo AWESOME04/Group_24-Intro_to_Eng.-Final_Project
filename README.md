@@ -12,7 +12,11 @@ Table of Contents
     Introduction
     Features
     Technologies
+    Block Diagram
+    System Overview
     Installation
+    Analysis of Final Design
+    Conclusions and future tasks
     Usage
     Contributing
 
